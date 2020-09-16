@@ -56,3 +56,7 @@ I think it's useful to clear up some vocabularly when working with GitHub Action
   If you need to build a Docker image and push it to a registry during deployment, you can import this action to manage that process for you instead of installing docker and executing the build and push commands separately.
   Actions are available on [GitHub Marketplace](https://github.com/marketplace?type=actions) and are provided by official sources and third party developers.
   Creating your own action is also a possibility if you can't find one to suit your needs.
+
+## References
+
+- "Automatically Host your book with GitHub Actions", Jupyter Book documentation, https://jupyterbook.org/publish/gh-pages.html#automatically-host-your-book-with-github-actions

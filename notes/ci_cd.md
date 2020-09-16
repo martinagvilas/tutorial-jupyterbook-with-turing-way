@@ -15,7 +15,7 @@ This is beneficial as bugfixes and new features can often be in the hands of use
 
 ## CI/CD Vendors
 
-There are many different platforms that provide CI/CD services.
+There are many different platforms that provide CI/CD services, such as [Travis](https://travis-ci.com/), [Circle](https://circleci.com/), [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/), and so on.
 These services can be thought of as "someone else's computer" where the testing and deployment phases of your software release process can be executed.
 The commands you would usually run on the command line to test and build your code can be put into a script that the CI vendor will automatically run on a given trigger, for example, when new code is pushed.
 

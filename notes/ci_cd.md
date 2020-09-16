@@ -8,10 +8,18 @@ Continuous Integration (CI) is the process of automating the integration of code
 This process is often comprised of a range of automatic tooling to assert the new code's correctness before integration.
 A version control system is the crucial element of CI processes and is often supplemented with other checks such as code quality, syntax style reviews, and more.
 
+### CI for Jupyter Book
+
+When building a Jupyter Book, we may use CI processes to achieve tasks like spellchecks, checking for broken links, code cells are bug-free and don't hang, and so on.
+
 ## What is Continuous Deployment?
 
 Continuous Deployment (CD) is a software release process that uses automated testing to validate if changes to a code base are correct and stable before immediate deployment to a production environment.
 This is beneficial as bugfixes and new features can often be in the hands of users as soon as they are pushed.
+
+### CD for Jupyter Book
+
+A CD process for Jupyter Book might include a deployment preview so that we can automatically check what the rendered book will look like with the added content before releasing it.
 
 ## CI/CD Vendors
 

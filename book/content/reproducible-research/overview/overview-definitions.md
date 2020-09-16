@@ -50,3 +50,9 @@ More information on these definitions can be found in "Reproducibility vs. Repli
 ## Reproducible but not open
 
 _The Turing Way_ recognises that some research will use sensitive data that cannot be shared and this handbook will provide guides on how your research can be reproducible without all parts necessarily being open.
+
+---
+## References
+```{bibliography} ../../references.bib
+:filter: docname in docnames
+```

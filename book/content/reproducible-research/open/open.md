@@ -5,7 +5,7 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
-| [Experience with version control](../overview.md) | Helpful | Experience with GitHub is particularly useful |
+| Experience with version control | Helpful | Experience with GitHub is particularly useful |
 
 ## Summary
 

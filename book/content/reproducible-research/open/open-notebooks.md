@@ -1,4 +1,4 @@
-## Open notebooks
+# Open notebooks
 
 Electronic Lab Notebooks (ELNs) enable researchers to organize and store experimental procedures, protocols, plans, notes, data, and even unfiltered interpretations using their computer or mobile device.
 They are a digital analogue to the paper notebook most researchers keep.

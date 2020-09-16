@@ -18,3 +18,9 @@ For further reading resources on reproducibility, please checkout the {ref}`reso
 
 ## Prerequisites / recommended skill level
 No previous knowledge needed.
+
+---
+## References
+```{bibliography} ../../references.bib
+:filter: docname in docnames
+```

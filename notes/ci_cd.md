@@ -6,7 +6,7 @@ _Sarah Gibson_
 
 Continuous Integration (CI) is the process of automating the integration of code changes from multiple contributors into a single software project.
 This process is often comprised of a range of automatic tooling to assert the new code's correctness before integration.
-A version control system is the crux of CI processes and is often supplemented with other checks such as code quality, syntax style reviews, and more.
+A version control system is the crucial element of CI processes and is often supplemented with other checks such as code quality, syntax style reviews, and more.
 
 ## What is Continuous Deployment?
 

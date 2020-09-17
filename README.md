@@ -10,8 +10,10 @@ folder.
 
 ## Second part: _Online deployment of Jupyter-Book_
 In the second part of the tutorial we will show you how create your own GitHub
-repository with the contents of your book, so you can deploy it using GitHub
-Pages. 
+repository with the contents of your book, locally build it on your computer, 
+and host it online using GitHub Pages.
 
 
 ## Third part: _Integrating Jupyter-Book and GitHub Actions_
+In the final part of the tutorial we will demonstrate how to build and deploy 
+online your Jupyter-Book using GitHub actions.

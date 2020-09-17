@@ -25,3 +25,5 @@
       file: content/reproducible-research/open/open-notebooks
     - title: Open Scholarship
       file: content/reproducible-research/open/open-scholarship
+- file: content/demo
+  title: Reproducible Notebooks

@@ -1,0 +1,5 @@
+# Ignore jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore local build of the book
+_build/

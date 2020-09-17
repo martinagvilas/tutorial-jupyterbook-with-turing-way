@@ -1,0 +1,30 @@
+- file: content/welcome
+- title: Reproducible Research
+  file: content/01_reproducible-research/reproducible-research
+  chapters:
+    - title: Overview
+      file: content/01_reproducible-research/01_overview/00_overview
+      sections:
+      - title: Definitions
+        file: content/01_reproducible-research/01_overview/01_overview-definitions
+      - title: Added advantages
+        file: content/01_reproducible-research/01_overview/02_overview-benefit
+      - title: Resources
+        file: content/01_reproducible-research/01_overview/03_overview-resources
+    - title: Open Research
+      file: content/01_reproducible-research/02_open/00_open
+      sections:
+      - title: Open Data
+        file: content/01_reproducible-research/02_open/01_open-data
+      - title: Open Source
+        file: content/01_reproducible-research/02_open/02_open-source
+      - title: Open Hardware
+        file: content/01_reproducible-research/02_open/03_open-hardware
+      - title: Open Access
+        file: content/01_reproducible-research/02_open/04_open-access
+      - title: Open Notebooks
+        file: content/01_reproducible-research/02_open/05_open-notebooks
+      - title: Open Scholarship
+        file: content/01_reproducible-research/02_open/06_open-scholarship
+- title: Reproducible notebooks
+  file: content/demo

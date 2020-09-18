@@ -30,8 +30,7 @@ List of topics and activities:
 - A longer hands-on session will be carried out to create Jupyter Book on GitHub, using The Turing Way chapters and files if your interest as examples
 - We will further show how to deploy JupyterBook with continuous integration tests using github actions
 - We will show the collaborative workflow to collaborate on GitHub and propose edits on Jupyter Book
-- Breakout sessions will be used for demo and troubleshooting from the participants in small groups
-- The session will end with open Q&A and sharing details on how participants can gain further support when working with Jupyter Books and The Turing Way
+- The session will end with sharing details on how participants can gain further support when working with Jupyter Books and The Turing Way
 
 **Proposed Agenda:**
 

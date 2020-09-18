@@ -1,0 +1,28 @@
+- file: welcome
+- file: reproducible-research
+  title: Reproducibility Guide
+  chapters:
+    - file: overview/overview
+      title: Overview
+      sections:
+      - file: overview/overview-definitions
+        title: Definitions
+      - file: overview/overview-benefit
+        title: Benefits
+      - file: overview/overview-resources
+        title: Resources
+    - file: open/open
+      title: Open Research
+      sections:
+      - file: open/open-data
+        title: Open Data
+      - file: open/open-source
+        title: Open Source
+      - file: open/open-hardware
+        title: Open Hardware
+      - file: open/open-access
+        title: Open Access
+      - file: open/open-notebooks
+        title: Open Notebooks
+      - file: open/open-scholarship
+        title: Open Scholarship

@@ -1,0 +1,4 @@
+numpy
+pandas
+jupyter-book==0.8.0
+ruamel.yaml

@@ -4,7 +4,7 @@
 In the section, we discussed the different aspects of reproducible research that are beneficial for the scientific community.
 In this chapter, we will share some less obvious aspects of working reproducibly for individual researchers and teams.
 
-![Why we should care about working reproducibly](../../figures/reasons_reproducibility.png)
+![Why we should care about working reproducibly](../figures/reasons_reproducibility.png)
 
 **1. Track a complete history of your research**
 
@@ -43,10 +43,10 @@ This aspect of reproducibility increases the usefulness of our research by enabl
 This ensures the continuity of a research idea and can even find fresh applications in other contexts.
 Progress of such projects can easily be tracked and continued - either by other researchers, or yourself if you want to build on your own work after a longer period {cite}`Markowetz2015`.
 
-To learn about other benefits of working reproducibly on Open Research projects are covered in our {ref}`rr-open` chapter.
+To learn about other benefits of working reproducibly on Open Research projects are covered in our Open chapter.
 
 ---
 ## References
-```{bibliography} ../../references.bib
+```{bibliography} ../references.bib
 :filter: docname in docnames
 ```

@@ -6,7 +6,7 @@ For additional resources like videos and reference papers on reproducibility, se
 - [ ] Define reproducibility for yourself.
 
 ## What to learn next?
-{ref}`rr-open` would be a good chapter to read next.
+Open Research would be a good chapter to read next.
 If you want to start learning hands-on practices, we recommend reading the version control chapter next.
 
 (rr-overview-resources-reading)=

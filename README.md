@@ -6,7 +6,7 @@
 
 ## Authors
 
-*Malvika Sharan, Martina G. Vilas, Sarah Gibson, Chris Holdgraf*
+*Malvika Sharan, Martina G. Vilas, Sarah Gibson*
 
 ## Resources
 
@@ -35,7 +35,7 @@ List of topics and activities:
 
 **Proposed Agenda:**
 
-- **Module 1** (current page), Duration: 5 minutes 
+- **[Module 1](./notebooks/1-welcome.ipynb)**, Duration: 5 minutes 
   - Introduction to the workshop
 - **[Module 2](./notebooks/2-introduction.ipynb)**, Duration: 20 minutes
   - Introduction to The Turing Way and reproducible research

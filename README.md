@@ -39,24 +39,21 @@ List of topics and activities:
 - **[Module 2](./notebooks/2-introduction.ipynb)**, Duration: 20 minutes
   - Introduction to The Turing Way and reproducible research
   - Introduction to Jupyter Book projects
-  - Demo of The Turing Way repository and its JupyterBook
+  - Demo of The Turing Way repository and its Jupyter Book
   <!---Show important bits: website folder, _toc file, config file--->
 - **[Module 3](./notebooks/3-setup-jupyterbook.ipynb)**, Duration: 15 minutes 
-  - Hands-on session on creating the minimal version of the Jupyter
+  - Hands-on session on creating the minimal version of a Jupyter Book
   <!---Set up the repository, add a chapter, create a table of content, build the book--->
 - **[Module 4](./notebooks/4-config-jupyterbook.ipynb)**, Duration: 15 minutes
-  - Book configuration, layout and personalisation
+  - Jupyter Book configuration, layout and personalisation
    <!---config file--->
 - **[Module 5](./notebooks/5-more-jupyterbook.ipynb)**, Duration: 10 minutes
-  - Executable files in a book using Jupyter Notebooks
-   <!---Create a new JupyterNotebook from scratch--->   
-- **[Module 6](./notebooks/6-binder-jupyterbook.ipynb)**, Duration: 15 minutes
-  - Introduction to Binder and BinderHuB
-  - Binder-isation to jupyterBook
-- **[Module 7](](./notebooks/7-ci-jupyterbook.ipynb))**, Duration: 15 minutes
+  - Executable files in a Jupyter Book using Jupyter Notebooks
+  - Binder-isation of Jupyter Book
+- **[Module 6](](./notebooks/6-ci-jupyterbook.ipynb))**, Duration: 15 minutes
   - Continuous Integration (CI) and its role in reproducibility
   - Deploying Jupyter Book using CI tests of GitHub actions
-- **[Module 8](./notebooks/8-final-demo.ipynb)**, Duration: 15 minutes
+- **[Module 7](./notebooks/7-final-demo.ipynb)**, Duration: 15 minutes
   - Guided demo of Sphinx features in Jupyter Book
   - Wrap up
   <!---for cross-referencing, citation, pdf export, collaborative workflow on GitHub repository to edit a chapter or propose edits on Jupyter Book--->

@@ -3,3 +3,7 @@
 
 # Ignore local build of the book
 _build/
+
+# Ignore files that should only be created during tutorial
+book/
+book_module4/_config.yml

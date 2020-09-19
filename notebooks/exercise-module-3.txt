@@ -1,11 +1,7 @@
-<<<<<<< HEAD:notebooks/exercise-module-3.txt
 #3. Update the _toc.yml file with chapter `open.md`
 #4. Add subchapter (other .md) file in your preferred order
-=======
-# 3. Add the chapter landing page `open.md` 
-# Also add the subchapters in your preferred order
->>>>>>> a0100ffe6c8d77ed12a6f49ca665806b02c2242a:notebooks/exercise1-module3.txt
-# %load ./exercise-module-3.txt
+#Solution: uncommemt the command below and run it to see the yml file for step 3 and 4
+#%load ./exercise-module-3.txt
 yaml = YAML()
 
 # Define the contents of our _toc.yml

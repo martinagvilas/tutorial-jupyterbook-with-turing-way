@@ -1,3 +1,6 @@
+#3. Update the _toc.yml file with chapter `open.md`
+#4. Add subchapter (other .md) file in your preferred order
+# %load ./exercise-module-3.txt
 yaml = YAML()
 
 # Define the contents of our _toc.yml

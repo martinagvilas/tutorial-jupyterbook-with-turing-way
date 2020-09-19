@@ -1,3 +1,6 @@
+# 3. Add the chapter landing page `open.md` 
+# Also add the subchapters in your preferred order
+# %load ./exercise-module-3.txt
 yaml = YAML()
 
 # Define the contents of our _toc.yml

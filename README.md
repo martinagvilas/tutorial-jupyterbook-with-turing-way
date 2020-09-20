@@ -51,7 +51,7 @@ She is a co-founder of the [Open Life Science](https://openlifesci.org/) mentori
 - Name: Martina G. Vilas
     - Title: Ms.
     - Organization: Max Plank Institute for Empirical Aesthetics, Frankfurt, Germany
-    - Biography: Martina is currently working at the [Max-Planck-Institute AE](https://www.aesthetics.mpg.de/en/the-institute/people/m-vilas.html), where she is conducting her research in cognitive neuroscience using computational modeling techniques. She is an open-science advocate who enjoys programming and contributing to open-source projects and communities. She is currently mentoring people from underrepresented groups in technology on their first open-source contribution, and provide infrastructure support for *The Turing Way* project as a core contributor and maintainer.
+    - Biography: Martina is currently working at the [Max-Planck-Institute AE](https://www.aesthetics.mpg.de/en/the-institute/people/m-vilas.html), where she is conducting her research in cognitive neuroscience using computational modeling techniques. She is an open-science advocate who enjoys programming and contributing to open-source projects and communities. She is currently mentoring people from underrepresented groups in technology on their first open-source contribution to Python libraries like [Pandas](https://www.pandanistas.org/pages/about.html). As a core contributor and maintainer, she provides infrastructure support for *[The Turing Way](https://the-turing-way.netlify.app)* project.
     - Photo: [LINK](authors/MartinaVilas.jpg)
     
 - Name: Sarah Gibson

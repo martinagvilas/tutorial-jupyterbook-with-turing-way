@@ -43,19 +43,19 @@ In this tutorial, our learns will:
 - Name: Malvika Sharan
     - Title: Dr.
     - Organization: *The Turing Way*, The Alan Turing Institute, London, UK
-    - Biography: Malvika Sharan is the community manager of *[The Turing Way](https://the-turing-way.netlify.app)* at [The Alan Turing Institute, UK](https://www.turing.ac.uk/). Malvika works with its community of diverse members to develop resources and ways that can make data science accessible for a wider audience.
+    - Biography: Malvika is the community manager of *[The Turing Way](https://the-turing-way.netlify.app)* at [The Alan Turing Institute, UK](https://www.turing.ac.uk/). She works with its community of diverse members to develop resources and ways that can make data science accessible for a wider audience.
 Malvika has a PhD in Bioinformatics and she worked at  European Molecular Biology Laboratory, Germany, that helped her solidify her values as an Open Researcher and community builder.
 She is a co-founder of the [Open Life Science](https://openlifesci.org/) mentoring program, a fellow of the [Software Sustainability Institute](https://www.software.ac.uk/) and a board member of [Open Bioinformatics Foundation](https://www.open-bio.org/event-awards/), where she focuses on training resources and fellowship programs to enhance the training, skill building and representation of marginalised groups in data science and bioinformatics.
     - Photo: [LINK](authors/MalvikaSharan.jpg)
 
 - Name: Martina G. Vilas
     - Title: Ms.
-    - Organization: Max Plank Research Institute, Frankfurt, Germany
-    - Biography: TBA
+    - Organization: Max Plank Institute for Empirical Aesthetics, Frankfurt, Germany
+    - Biography: Martina is currently working at the [Max-Planck-Institute AE](https://www.aesthetics.mpg.de/en/the-institute/people/m-vilas.html), where she is conducting her research in cognitive neuroscience using computational modeling techniques. She is an open-science advocate who enjoys programming and contributing to open-source projects and communities. She is currently mentoring people from underrepresented groups in technology on their first open-source contribution, and provide infrastructure support for *The Turing Way* project as a core contributor and maintainer.
     - Photo: [LINK](authors/MartinaVilas.jpg)
     
 - Name: Sarah Gibson
     - Title: Dr
     - Organization: The Alan Turing Institute, London, UK
-    - Biography: TBA
+    - Biography: Sarah is a Research Software Engineer at [The Alan Turing Institute, UK](https://www.turing.ac.uk/) where she implements software best practices to translate academic research into real world solutions through the Turing’s collaborative network. As a maintainer and operator of the [Binder](https://mybinder.org/) project, she operates a [BinderHub](https://binderhub.readthedocs.io/en/latest/) cluster at the Turing. Sarah is a Software Sustainability Institute Fellow where she focuses on nurturing and diversifying the Binder community. She is also a core contributor of *[The Turing Way](https://the-turing-way.netlify.app)* project.
     - Photo: [LINK](authors/SarahGibson.jpg)

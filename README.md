@@ -50,7 +50,7 @@ List of topics and activities:
 - **[Module 5](./notebooks/5-more-jupyterbook.ipynb)**, Duration: 10 minutes
   - Executable files in a Jupyter Book using Jupyter Notebooks
   - Binder-isation of Jupyter Book
-- **[Module 6](](./notebooks/6-ci-jupyterbook.ipynb))**, Duration: 15 minutes
+- **[Module 6](./notebooks/6-ci-jupyterbook.ipynb))**, Duration: 15 minutes
   - Continuous Integration (CI) and its role in reproducibility
   - Deploying Jupyter Book using CI tests of GitHub actions
 - **[Module 7](./notebooks/7-final-demo.ipynb)**, Duration: 15 minutes

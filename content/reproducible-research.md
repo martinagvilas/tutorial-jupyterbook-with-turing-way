@@ -8,14 +8,9 @@ _The Turing Way_ defines reproducibility in data research as data and code being
 There are several definitions of reproducibility in use, and we discuss these in more detail in the definitions section of this chapter.
 While it it absolutely fine for us each to use different words, it will be useful for you to know how _The Turing Way_ defines *reproducibility* to avoid misunderstandings when reading the rest of the handbook.
 
-```{figure} ../figures/reproducibility.jpg
----
-height: 500px
-name: reproducible-path
-alt: A person showing another person what steps to take to make your data research reproducible.
----
-_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807).
-```
+| ![A person showing another person what steps to take to make your data research reproducible](./figures/reproducibility.jpg) |
+| ---------------|
+| _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807) |
 
 _The Turing Way_ started by defining reproducibility in the context of this handbook, lay out its importance for science and scientists, and provide an overview of the common concepts, tools and resources.
 The first few chapters were on the benefits of reproducibility, testing and reproducible computational environments.

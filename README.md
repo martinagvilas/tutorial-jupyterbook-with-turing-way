@@ -12,7 +12,7 @@
 - **Prerequisite**: previous experience with version control, GitHub, Markdown, Jupyter Notebooks, basic commands of bash and basic Pathon
 - **Tutorial files**: This tutorial is organised in 7 short modules that are developed in Jupyter Notebooks and paired with introductory videos. 
   - Please visit the [notebooks directory](./notebooks) to find the tutorial files (named module-wise).
-  - All the introductory videos are available in this [YouTube playlist](https://www.youtube.com/playlist?list=PLBxcQEfGu3Dmdo6oKg6o9V7Q_e7WSX-vu) (named and ordered module-wise).
+  - All the introductory videos are available in this [YouTube playlist](https://www.youtube.com/playlist?list=PLBxcQEfGu3Dmdo6oKg6o9V7Q_e7WSX-vu) (named and ordered module-wise) and the slides used in those presentations are provided in the [presentation directory](./presentation).
 
 ### Description
 

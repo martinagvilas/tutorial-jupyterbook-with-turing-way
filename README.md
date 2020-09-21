@@ -59,3 +59,9 @@ She is a co-founder of the [Open Life Science](https://openlifesci.org/) mentori
     - Organization: The Alan Turing Institute, London, UK
     - Biography: Sarah is a Research Software Engineer at [The Alan Turing Institute, UK](https://www.turing.ac.uk/) where she implements software best practices to translate academic research into real world solutions through the Turing’s collaborative network. As a maintainer and operator of the [Binder](https://mybinder.org/) project, she operates a [BinderHub](https://binderhub.readthedocs.io/en/latest/) cluster at the Turing. Sarah is a Software Sustainability Institute Fellow where she focuses on nurturing and diversifying the Binder community. She is also a core contributor of *[The Turing Way](https://the-turing-way.netlify.app)* project.
     - Photo: [LINK](authors/SarahGibson.jpg)
+    
+### Project Leads and video contributors for module 2
+
+- *The Turing Way*: Kirstie Whitaker, head of the Tools, Practices, and Systems research programme, The Alan Turing Institute, UK.
+- Jupyter Book: Chris Holdgraf, member of Project Jupyter and Binder, fellow at the Berkeley Institute for Data Science, USA.
+

@@ -1,4 +1,4 @@
-# Licenses for Tutorial (MIT) and Text materials (CC-BY 4.0)
+# Licenses for the tutorial (MIT) and text materials (CC-BY 4.0)
 
 Copyright (c) 2020 The Turing Way
 

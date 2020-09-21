@@ -8,9 +8,8 @@ to improve this tutorial.
 You can report mistakes and errors, propose a topic for discussion, offer resources 
 to enhance the current modules.
 
-.
 We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all the activities 
-and projects involved in this event.
+on this repository.
 
 Whatever is your background and availability, there is a way to contribute on this 
 GitHub repository.
@@ -28,7 +27,7 @@ to express your interest to get involved.
 
 - Open an issue to report errors/bugs, share your feedback or suggest any improvement 
 that can help other users of this tutorial.
-- Please open a pull request to fix any error, clarify any part of this tutorial or
+- Open a pull request to fix any error, clarify any part of this tutorial that is not clear or
 contribute examples.
 
 🎉 I am committed to contributing to *The Turing Way* and Jupyter Book in the future
@@ -43,7 +42,7 @@ Please visit their GitHub repository for more details:
 - [*The Turing Way* GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 - [Jupyter Book  GitHub repository](https://github.com/executablebooks/jupyter-book)
 
-🛠 I am ready to contribute to the tutorial and/or the 
+🛠 I am ready to contribute to the tutorial and/or the projects
 ---
 
 - For open tasks in this repository, please see the 

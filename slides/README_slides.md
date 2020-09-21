@@ -14,16 +14,6 @@ jupyter:
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-# Slides for the presentations used in this tutorial
-
-Each Jupyter Notebook comes with an introductory video.
-All the slides used in those videos are shared in the [presentation directory](../presentation) of this tutorial's GitHub repository.
-
-These presentations are available under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
-
-<!---
-+++ {"slideshow": {"slide_type": "slide"}}
-
 # Tutorial slides
 
 - Slides are optional (e.g., you may not use them if your presentation is via live coding).
@@ -55,5 +45,3 @@ These presentations are available under the [CC-BY 4.0](https://creativecommons.
 ## License
 
 **Recommend** that slides be shared under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
-
---->

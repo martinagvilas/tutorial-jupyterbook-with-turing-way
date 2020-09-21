@@ -16,15 +16,16 @@ jupyter:
 
 # Slides for the presentations used in this tutorial
 
-Each Jupyter Notebook comes with an introductory video, which is linked on the top of the Notebook.
-All the slides for those presentations are being shared in this repository in the [presentation directory](../presentation) under the CC-BY 4.0 License.
+Each Jupyter Notebook comes with an introductory video.
+All the slides used in those videos are shared in the [presentation directory](../presentation) of this tutorial's GitHub repository.
+
++++ {"slideshow": {"slide_type": "slide"}}
+<!---
 
 ## Guidelines by JupyterCon for Tutorial slides
 
 - Slides are optional (e.g., you may not use them if your presentation is via live coding).
 - If the pre-recorded presentations will use slides, we request that you deposit the slides in this folder.
-
-+++ {"slideshow": {"slide_type": "slide"}}
 
 ## Use text-based source
 
@@ -46,7 +47,8 @@ All the slides for those presentations are being shared in this repository in th
 
 
 +++ {"slideshow": {"slide_type": "slide"}}
+--->
 
 ## License
 
-**Recommend** that slides be shared under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
+These presentations are available under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.

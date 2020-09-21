@@ -10,6 +10,8 @@
 - **Duration:** 2h (120 minutes)
 - **Audience level**: Novice/Intermediate GitHub users
 - **Prerequisite**: previous experience with version control, GitHub, Markdown, Jupyter Notebooks, basic commands of bash and basic Pathon
+- **Tutorial files**: This tutorial is organised in 7 short modules that are developed in Jupyter Notebooks. 
+Please visit the (notebooks)[./notebooks] directory to find the tutorial files that are named chronologically.
 
 ### Description
 
@@ -46,19 +48,19 @@ In this tutorial, our learners will:
     - Biography: Malvika is the community manager of *[The Turing Way](https://the-turing-way.netlify.app)* at [The Alan Turing Institute, UK](https://www.turing.ac.uk/). She works with its community of diverse members to develop resources and ways that can make data science accessible for a wider audience.
 Malvika has a PhD in Bioinformatics and she worked at  European Molecular Biology Laboratory, Germany, that helped her solidify her values as an Open Researcher and community builder.
 She is a co-founder of the [Open Life Science](https://openlifesci.org/) mentoring program, a fellow of the [Software Sustainability Institute](https://www.software.ac.uk/) and a board member of [Open Bioinformatics Foundation](https://www.open-bio.org/event-awards/), where she focuses on training resources and fellowship programs to enhance the training, skill building and representation of marginalised groups in data science and bioinformatics.
-    - Photo: [LINK](authors/MalvikaSharan.jpg)
+    - Photo: [LINK](images/MalvikaSharan.jpg)
 
 - Name: Martina G. Vilas
     - Title: Ms.
     - Organization: Max Plank Institute for Empirical Aesthetics, Frankfurt, Germany
     - Biography: Martina is currently working at the [Max-Planck-Institute AE](https://www.aesthetics.mpg.de/en/the-institute/people/m-vilas.html), where she is conducting her research in cognitive neuroscience using computational modeling techniques. She is an open-science advocate who enjoys programming and contributing to open-source projects and communities. As a core contributor and maintainer, she provides infrastructure support for *[The Turing Way](https://the-turing-way.netlify.app)* project.
-    - Photo: [LINK](authors/MartinaVilas.jpg)
+    - Photo: [LINK](images/MartinaVilas.jpg)
     
 - Name: Sarah Gibson
     - Title: Dr
     - Organization: The Alan Turing Institute, London, UK
     - Biography: Sarah is a Research Software Engineer at [The Alan Turing Institute, UK](https://www.turing.ac.uk/) where she implements software best practices to translate academic research into real world solutions through the Turing’s collaborative network. As a maintainer and operator of the [Binder](https://mybinder.org/) project, she operates a [BinderHub](https://binderhub.readthedocs.io/en/latest/) cluster at the Turing. Sarah is a Software Sustainability Institute Fellow where she focuses on nurturing and diversifying the Binder community. She is also a core contributor of *[The Turing Way](https://the-turing-way.netlify.app)* project.
-    - Photo: [LINK](authors/SarahGibson.jpg)
+    - Photo: [LINK](images/SarahGibson.jpg)
     
 ### Project Leads and video contributors for module 2
 

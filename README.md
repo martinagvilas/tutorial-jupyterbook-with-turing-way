@@ -10,8 +10,9 @@
 - **Duration:** 2h (120 minutes)
 - **Audience level**: Novice/Intermediate GitHub users
 - **Prerequisite**: previous experience with version control, GitHub, Markdown, Jupyter Notebooks, basic commands of bash and basic Pathon
-- **Tutorial files**: This tutorial is organised in 7 short modules that are developed in Jupyter Notebooks. 
-Please visit the [notebooks](./notebooks) directory to find the tutorial files that are named chronologically.
+- **Tutorial files**: This tutorial is organised in 7 short modules that are developed in Jupyter Notebooks and paired with introductory videos. 
+  - Please visit the [notebooks directory](./notebooks) to find the tutorial files (named module-wise).
+  - All the introductory videos are available in this [YouTube playlist](https://www.youtube.com/playlist?list=PLBxcQEfGu3Dmdo6oKg6o9V7Q_e7WSX-vu) (named and ordered module-wise).
 
 ### Description
 

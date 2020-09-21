@@ -11,7 +11,7 @@
 - **Audience level**: Novice/Intermediate GitHub users
 - **Prerequisite**: previous experience with version control, GitHub, Markdown, Jupyter Notebooks, basic commands of bash and basic Pathon
 - **Tutorial files**: This tutorial is organised in 7 short modules that are developed in Jupyter Notebooks. 
-Please visit the (notebooks)[./notebooks] directory to find the tutorial files that are named chronologically.
+Please visit the [notebooks](./notebooks) directory to find the tutorial files that are named chronologically.
 
 ### Description
 

@@ -1,0 +1,29 @@
+#3. Update the _toc.yml file with chapter `open.md`
+#4. Add subchapter (other .md) file in your preferred order
+#Solution: uncommemt the command below and run it to see the yml file for step 3 and 4
+#%load ./exercise-module-3.txt
+yaml = YAML()
+
+# Define the contents of our _toc.yml
+toc_document = """
+- file: welcome
+- file: reproducible-research
+- file: overview/overview
+  sections:
+  - file: overview/overview-definitions.md
+  - file: overview/overview-benefit.md
+  - file: overview/overview-resources.md
+- file: open/open
+  title: Open Research
+  sections:
+  - file: open/open-data
+  - file: open/open-source
+  - file: open/open-hardware
+  - file: open/open-access
+  - file: open/open-notebooks
+  - file: open/open-scholarship
+"""
+
+# Save _toc.yml in the book directory
+toc_file = open('../book/_toc.yml', 'w')
+yaml.dump(yaml.load(toc_document), toc_file)

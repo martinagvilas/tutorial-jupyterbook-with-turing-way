@@ -1,7 +1,6 @@
 # Data
 
-Any data files used in the worked-out examples or learner exercises should be in this folder.
-
-Data sources should be listed in this README.
-
-**Recommend** that data be shared under [CC0](https://creativecommons.org/share-your-work/public-domain/cc0) public-domain dedication or [CC-BY](https://creativecommons.org/licenses/by/2.0/).
+- This tutorial is designed to guide learners to work on their local computers.
+- Data source used for this tutorial: https://github.com/martinagvilas/jupytercon_tutorial.
+- Through the tutorial we guide learners to download the [Zip folder](https://github.com/martinagvilas/jupytercon_tutorial/archive/master.zip) of clone the entire repository `git clone https://github.com/martinagvilas/jupytercon_tutorial.git`.
+- We use example files that are present in the [./content] folder.

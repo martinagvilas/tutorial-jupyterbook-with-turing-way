@@ -14,7 +14,12 @@ jupyter:
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-# Tutorial slides
+# Slides for the presentations used in this tutorial
+
+Each Jupyter Notebook comes with an introductory video, which is linked on the top of the Notebook.
+All the slides for those presentations are being shared in this repository in the [presentation directory](../presentation) under the CC-BY 4.0 License.
+
+# Guidelines by JupyterCon for Tutorial slides
 
 - Slides are optional (e.g., you may not use them if your presentation is via live coding).
 - If the pre-recorded presentations will use slides, we request that you deposit the slides in this folder.
@@ -23,7 +28,7 @@ jupyter:
 
 ## Use text-based source
 
-- We ask that you use text-based formats for your slides, e.g., markdown 
+- We ask that you use text-based formats for your slides, e.g., markdown
 - This markdown file is an example source for slides using `nbconvert` and Reveal. See the GitHub action '.github/workflows/slides.yml' in this repo so see how this markdown file is converted to a HTML slide show and published on GitHub Pages - https://jupytercon.github.io/tutorial2020/
 
 +++ {"slideshow": {"slide_type": "subslide"}}

@@ -66,4 +66,4 @@ She is a co-founder of the [Open Life Science](https://openlifesci.org/) mentori
 ### Project Leads and video contributors for module 2
 
 - *The Turing Way*: Kirstie Whitaker, head of the Tools, Practices, and Systems research programme, The Alan Turing Institute, UK.
-- Jupyter Book: Chris Holdgraf, member of Project Jupyter and Binder, fellow at the Berkeley Institute for Data Science, USA.
+- Jupyter Book: Chris Holdgraf, member of Project Jupyter and Binder, co-founder of The International Interactive Computing Collaboration (2i2c), USA.

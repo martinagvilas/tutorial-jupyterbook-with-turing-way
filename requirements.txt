@@ -1,5 +1,7 @@
 matplotlib
 numpy
 pandas
+jupyter
 jupyter-book==0.8.0
+jupytext
 ruamel.yaml

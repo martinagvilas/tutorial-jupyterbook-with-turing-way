@@ -1,6 +1,5 @@
 - file: welcome
 - file: reproducible-research
-  title: Reproducibility Guide
   chapters:
     - file: overview/overview
       title: Overview

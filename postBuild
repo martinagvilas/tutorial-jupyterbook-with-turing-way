@@ -1,1 +1,1 @@
-jupyter labextension install @jupyterlab/server-proxy
+jupyter labextension install @jupyterlab/server-proxy --minimize=False

@@ -1,0 +1,41 @@
+ # Name your workflow so you can tell them apart!
+ name: deploy-book
+
+ # The workflow will only run when the master branch changes
+ on:
+   push:
+     branches:
+       - master
+
+ jobs:
+   # This job installs dependencies, builds the book, and pushes it to `gh-pages`
+   deploy-book:
+     runs-on: ubuntu-latest  # We request a Linux machine to run the job
+     steps:
+       # We need to check out the repository. The step uses an Action written
+       # by the GitHub Actions team
+       - name: Checkout repo
+         uses: actions/checkout@v2
+
+       # Install Python using another Action
+       - name: Set up Python 3.7
+         uses: actions/setup-python@v1
+         with:
+           python-version: 3.7
+
+       # Install the book dependencies
+       - name: Install dependencies
+         run: |
+           pip install -r requirements.txt
+
+       # Build the book
+       - name: Build the book
+         run: |
+           jupyter-book build ./book_module6
+
+       # Push the book's HTML to github-pages
+       - name: GitHub Pages action
+         uses: peaceiris/actions-gh-pages@v3.6.1
+         with:
+           github_token: ${{ secrets.GITHUB_TOKEN }}  # This token is automatically generated, don't worry about adding it
+           publish_dir: ./book_module6/_build/html

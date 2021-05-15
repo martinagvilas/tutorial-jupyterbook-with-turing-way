@@ -1,12 +1,9 @@
- # Name your workflow so you can tell them apart!
+# Name your workflow so you can tell them apart!
  name: deploy-book
 
  # The workflow will only run when the master branch changes
  on:
    push:
-     branches:
-       - master
-   pull_request:
      branches:
        - master
 
@@ -35,16 +32,9 @@
        - name: Build the book
          run: |
            jupyter-book build ./book_module6
-       - name: Run html proofer
-         uses: chabad360/htmlproofer@master
-         with:
-          directory: "./book_module6/_build/html"
-          arguments: --assume-extension --disable-external --only_4xx
-         continue-on-error: true
 
        # Push the book's HTML to github-pages
        - name: GitHub Pages action
-         if: github.event_name == 'push' && github.ref == 'refs/heads/master
          uses: peaceiris/actions-gh-pages@v3.6.1
          with:
            github_token: ${{ secrets.GITHUB_TOKEN }}  # This token is automatically generated, don't worry about adding it

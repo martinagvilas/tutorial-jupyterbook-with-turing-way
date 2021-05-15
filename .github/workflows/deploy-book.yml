@@ -45,7 +45,7 @@
        # Push the book's HTML to github-pages
        - name: GitHub Pages action
        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
-       uses: peaceiris/actions-gh-pages@v3.6.1
-       with:
-         github_token: ${{ secrets.GITHUB_TOKEN }}  # This token is automatically generated, don't worry about adding it
-         publish_dir: ./book_module6/_build/html
+        uses: peaceiris/actions-gh-pages@v3.6.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # This token is automatically generated, don't worry about adding it
+          publish_dir: ./book_module6/_build/html
